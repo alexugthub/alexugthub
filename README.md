@@ -8,7 +8,7 @@ Software developer with about 20 years of experience in building solutions for w
 - **Microsoft Visual Studio** (+15 years). I started to learn C++ and .NET on VS 6.0 when in high school and I have been useing this suite of tools for many projects ever since.
 - **PHP** (+12 years). One of my favorites for the server side. I always kept up with the releases of new versions from 5.6 to 8.4 and I used PHP as a module and CGI, for scripts, full systems and I even played at creating a desktop application, just to see how far it can go.
 
-# Principles
+## Principles
 
 - Clean code. This is almost an OCD. I like code to be well structured in files, easy to find, read, and understand. Everything consistent and in its place. No left overs, no huge files of mangled text.
 
