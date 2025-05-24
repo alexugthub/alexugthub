@@ -14,5 +14,6 @@ Software developer with about 20 years of experience in building solutions for w
 
 - Clean code. This is almost an OCD. I like code to be well structured in files, easy to find, read, and understand. Everything consistent and in its place. No left overs, no huge files of mangled text.
 - Standard compliancy. I like following standards and specifications that regulate languages and technologies, making it easier for everyone to collaborate seamlessly. GitHub is a great place for finding best practices guides, as well.
+- SOLID. I aim to follow as much as possible the five design principles for writing maintainable and extendable object-oriented code
 
 I use Copilot, Cursor and other AI assistants, but always being in control of what's going on, preferring to write the code myself and take all the decisions. No "vibe coding", just using LLMs to make work faster where it can do so.
