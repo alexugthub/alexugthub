@@ -1,6 +1,6 @@
 # Alexu
 
-Software developer with about 20 years of experience in building solutions for web, desktop and mobile platforms
+Software developer with about 20 years of experience in building solutions for web, desktop and mobile platforms. Details at https://alexu.click/me
 
 ## Experience
 
